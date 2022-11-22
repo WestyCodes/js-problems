@@ -1,1 +1,2 @@
 # Plain English Solution
+Create a function, that will receive a number as an argument. Inside the function have a variable set to that amount, and use if statements to see which coins you would subtract from the total to get it down to 0, without going negative. And keeping track of which coins you have used.
